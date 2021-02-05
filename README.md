@@ -28,3 +28,4 @@
 8. Upgrade pip3: `pip3 install -U pip`
 9. `pip3 --version` should be 21.0.1
 10. Install rasa: `pip3 install rasa`
+11. `python3 -m rasa --version` is 2.2.9
