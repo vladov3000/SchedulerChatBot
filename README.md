@@ -23,7 +23,8 @@
 3. Run gcloud ssh command; should look like this `gcloud beta compute ssh --zone "us-central1-a" "instance-1" --project "schedulerchatbot-303906"`
 4. `python3 --version` is 3.7.3
 5. Update package list: `sudo apt update`
-6. Install pip3: `sudo apt install python3-pip`
-7. Upgrade pip3: `pip3 install -U pip`
-8. `pip3 --version` should be 21.0.1
-9. Install rasa: `pip3 install rasa`
+6. Install git: `sudo apt install git`
+7. Install pip3: `sudo apt install python3-pip`
+8. Upgrade pip3: `pip3 install -U pip`
+9. `pip3 --version` should be 21.0.1
+10. Install rasa: `pip3 install rasa`
