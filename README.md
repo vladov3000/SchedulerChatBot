@@ -9,10 +9,10 @@
 3. Pin Compute Engine from sidebar (optional)
 4. Compute Engine > VM Instances > Create
 5. Change machine type to e2-standard-8 (8 vCPU, 32 GB Memory)
-6. Change Boot Disk to 
-  - Operating system: Debian
-  - Version: Debian GNU/Linux 10 (buster)
-  - Size: 100 GB
+6. Change Boot Disk to:
+    - Operating system: Debian
+    - Version: Debian GNU/Linux 10 (buster)
+    - Size: 100 GB
 7. Allow HTTPS Traffic
 8. Create
 
