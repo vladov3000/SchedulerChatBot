@@ -16,7 +16,7 @@
 7. Allow HTTPS Traffic
 8. Create
 
-### Connect to Google Cloud VM Instance and Enviroment Setup
+### Connect to and setup a Google Cloud VM Instance
 
 1. Connect > Dropdown > View gcloud command (Copy this)
 2. `gcloud auth login` in a new terminal
